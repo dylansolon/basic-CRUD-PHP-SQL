@@ -1,1 +1,1 @@
-# basic-CRUD-PHP-SQL
+# Exercice Basique d'un CRUD avec PHP/MySQL
